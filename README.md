@@ -1,3 +1,8 @@
 # Aplicacion de Consola con Node Js
+Recuerda hacer  antes de comenzar.
+``` npm install  
+``` 
+Ejecutar para inicializar.
 
-``` Recuerda hacer npm install antes de comenzar.  Ejecutar Node App para inicializar.
+```` node app
+````
